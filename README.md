@@ -1,4 +1,4 @@
-# Kody (RAG model)
+# Kody (A custom AI-Agent)
 
 Kody is a Python application designed to assist in code generation tasks by leveraging AI models and parsing tools. It can help in assisting to understand your code and can also generate test scripts.As we use Ollama this runs entire in your machine.Downside is you have to download the model on your machine,more localization is directly proportional to memory.You can download ollama from the official repo [here](https://github.com/ollama/ollama).
 Warning:Its not completely local per se as I used LlamaCloud API to parse the documents for better results.
